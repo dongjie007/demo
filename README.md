@@ -1,2 +1,0 @@
-# demo
-ImitationProject_Test
